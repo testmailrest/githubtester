@@ -6,8 +6,8 @@
  * Time: 14:30
  */
 
-echo "WTG?";
+echo "DRONTG?";
 
-$y = 778;
+$y = 678;
 
 var_dump($y);
