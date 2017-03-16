@@ -6,8 +6,8 @@
  * Time: 14:30
  */
 
-echo "WTF?";
+echo "WTG?";
 
-$y = 777;
+$y = 778;
 
 var_dump($y);
