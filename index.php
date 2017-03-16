@@ -7,3 +7,7 @@
  */
 
 echo "WTF?";
+
+$y = 777;
+
+var_dump($y);
