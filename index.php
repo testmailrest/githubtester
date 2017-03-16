@@ -6,8 +6,8 @@
  * Time: 14:30
  */
 
-echo "WTF?";
+echo "DRONTG?";
 
-$y = 777;
+$y = 678;
 
 var_dump($y);
